@@ -174,7 +174,7 @@ These come from my EEG Foundation Challenge work, described in the research box 
 
 ## 🎓 Education
 
-**Engineering Degree in Computer Science** (Diplôme National d'Ingénieur) · ISIMM, University of Monastir, Tunisia · 09/2021 – 10/2026
+**Engineering Degree in Computer Science** (Diplôme National d'Ingénieur) · ISIMM, University of Monastir, Tunisia · 09/2021 – 10/2026<br/>
 Highest honours (Mention Excellent) · 1st of 57 in 2024 · Software Engineering specialisation
 
 **Languages:** Arabic (native) · English (C1) · French (B2) · German (B1)
