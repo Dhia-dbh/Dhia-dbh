@@ -1,0 +1,246 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Dhia Ben Hamouda",
+    "label": "AI Engineer · Machine Learning · LLM Systems · Automation",
+    "email": "dhiabenhamouda.pro@gmail.com",
+    "summary": "Computer science engineer who builds AI systems from the model to the API and the interface: document automation, LLM evaluation and decision support. Research experience in machine learning for battery state estimation and EEG decoding.",
+    "location": {
+      "city": "Sousse",
+      "countryCode": "TN"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Dhia-dbh",
+        "url": "https://github.com/Dhia-dbh"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "dhiabenhamouda",
+        "url": "https://linkedin.com/in/dhiabenhamouda"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Technische Universität Chemnitz, Measurement and Sensor Technology",
+      "position": "Research Intern, Machine Learning (Engineering Thesis)",
+      "location": "Chemnitz, Germany",
+      "startDate": "2026-02",
+      "endDate": "2026-07",
+      "highlights": [
+        "Built a framework comparing five electrochemical impedance spectroscopy representations for lithium-ion battery state-of-charge estimation.",
+        "Evaluated conventional ML and CNN models leave-one-cell-out, on battery cells unseen in training.",
+        "Applied SHAP and Grad-CAM to identify influential features and spectral regions and interpret their physical meaning."
+      ]
+    },
+    {
+      "name": "Proxym Group",
+      "position": "Junior AI Engineer (Internship)",
+      "location": "Sousse, Tunisia",
+      "startDate": "2025-06",
+      "endDate": "2025-08",
+      "highlights": [
+        "Built an LLM-as-a-Judge SQL evaluation prototype with a Performer-Judge workflow; evaluated 162 internal queries, with a reported 12% reduction in query runtime.",
+        "Prototyped human-reviewed credit decision support combining rule-guided ML and LLM reasoning with a FastAPI service and a React interface."
+      ]
+    },
+    {
+      "name": "OZEOL",
+      "position": "AI Automation Engineer (Internship)",
+      "location": "Sousse, Tunisia",
+      "startDate": "2024-06",
+      "endDate": "2024-09",
+      "highlights": [
+        "Reduced average document-processing time by about 50% by combining OCR, language detection and NLP classification for multilingual files.",
+        "Delivered document extraction and normalisation through a Flask API and a React interface, with reported extraction precision above 85% across PDF, Word, Excel and image inputs."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "ISIMM, University of Monastir",
+      "area": "Computer Science (Software Engineering)",
+      "studyType": "Engineering Degree (Diplôme National d'Ingénieur)",
+      "startDate": "2021-09",
+      "endDate": "2026-10",
+      "score": "Highest honours (Mention Excellent); 1st of 57 in 2024"
+    }
+  ],
+  "awards": [
+    {
+      "title": "DAAD KOSPIE Scholarship",
+      "date": "2026",
+      "awarder": "DAAD",
+      "summary": "Funded six-month research stay and engineering thesis at TU Chemnitz."
+    },
+    {
+      "title": "1st Prize, AI Night hackathon",
+      "date": "2024",
+      "awarder": "ARSII"
+    },
+    {
+      "title": "1st Prize, AI Wave hackathon",
+      "date": "2024",
+      "awarder": "GDG Sousse"
+    },
+    {
+      "title": "1st Prize, Code of Duty hackathon",
+      "date": "2024",
+      "awarder": "GDSC EPI"
+    },
+    {
+      "title": "IEEEXtreme programming competition, 1st place at university level (team)",
+      "date": "2022-10",
+      "awarder": "IEEE"
+    },
+    {
+      "title": "15+ hackathons entered, 3 first prizes",
+      "date": "2024",
+      "summary": "First prizes at AI Night (ARSII), AI Wave (GDG Sousse) and Code of Duty (GDSC EPI)."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Deep Learning Specialization",
+      "issuer": "DeepLearning.AI",
+      "date": "2025-03"
+    },
+    {
+      "name": "Natural Language Processing Specialization",
+      "issuer": "DeepLearning.AI",
+      "date": "2025-01"
+    },
+    {
+      "name": "Fundamentals of Deep Learning",
+      "issuer": "NVIDIA",
+      "date": "2024-09"
+    },
+    {
+      "name": "Building Transformer-Based Natural Language Processing Applications",
+      "issuer": "NVIDIA",
+      "date": "2024-09"
+    },
+    {
+      "name": "Applications of AI for Predictive Maintenance",
+      "issuer": "NVIDIA",
+      "date": "2024-09"
+    },
+    {
+      "name": "AWS Academy Cloud Foundations",
+      "issuer": "AWS Academy",
+      "date": "2025-07"
+    },
+    {
+      "name": "AWS Academy Cloud Security Foundations",
+      "issuer": "AWS Academy",
+      "date": "2025-07"
+    },
+    {
+      "name": "Microsoft Azure AI Fundamentals (AI-900)",
+      "issuer": "Microsoft",
+      "date": "2023-12"
+    },
+    {
+      "name": "Meta Front-End Developer Professional Certificate",
+      "issuer": "Meta",
+      "date": "2024-07"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Machine learning",
+      "keywords": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "scikit-learn",
+        "MLflow",
+        "Hugging Face",
+        "MNE-Python",
+        "SHAP",
+        "Grad-CAM"
+      ]
+    },
+    {
+      "name": "LLM applications",
+      "keywords": [
+        "LangChain",
+        "LLM-as-a-Judge",
+        "LLM evaluation",
+        "FastAPI",
+        "Flask",
+        "Pydantic"
+      ]
+    },
+    {
+      "name": "Software development",
+      "keywords": [
+        "TypeScript",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "PostgreSQL",
+        "MySQL",
+        "C++",
+        "Java"
+      ]
+    },
+    {
+      "name": "Automation and deployment",
+      "keywords": [
+        "Docker",
+        "AWS",
+        "Azure",
+        "Linux",
+        "Bash",
+        "Nginx",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Arabic",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "C1"
+    },
+    {
+      "language": "French",
+      "fluency": "B2"
+    },
+    {
+      "language": "German",
+      "fluency": "B1"
+    }
+  ],
+  "projects": [
+    {
+      "name": "EEG Foundation Challenge",
+      "startDate": "2025",
+      "description": "Independent entries in 2025 (reaction-time decoding) and 2026 (BCI decoding, Track 02). More than 1,000 training runs tracked in MLflow.",
+      "keywords": [
+        "EEG",
+        "PyTorch",
+        "MNE-Python",
+        "MLflow",
+        "cross-validation"
+      ]
+    },
+    {
+      "name": "BtalaLos",
+      "url": "https://github.com/Dhia-dbh/BtalaLos",
+      "description": "Self-hosted job-search workspace with AI-tailored CVs and cover letters, PDF export and application tracking."
+    },
+    {
+      "name": "doc-flash",
+      "url": "https://github.com/Dhia-dbh/doc-flash",
+      "description": "FastAPI service that returns code with LLM-written docstrings and comments."
+    }
+  ]
+}
