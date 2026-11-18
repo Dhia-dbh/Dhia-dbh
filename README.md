@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhiabenhamouda-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhiabenhamouda)
 [![Email](https://img.shields.io/badge/Email-dhiabenhamouda.pro@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:dhiabenhamouda.pro@gmail.com)
-[![CV](https://img.shields.io/badge/CV-PDF-111111?logo=readthedocs&logoColor=white)](./BenHamouda_Dhia-CV.pdf)
+[![CV](https://img.shields.io/badge/CV-Research_%7C_Industry-111111?logo=readthedocs&logoColor=white)](https://dhia-dbh.github.io/Dhia-dbh/cv/)
 ![Based in Sousse, Tunisia](https://img.shields.io/badge/Based_in-Sousse,_TN-555555)
 ![Open to AI and Software Engineering roles](https://img.shields.io/badge/Open_to-AI_%26_Software_Engineering_roles-3B7890)
 
@@ -50,7 +50,8 @@ Click a box to open it. Everything stays on this page.
 <details>
 <summary><h3>🔬 A Research Associate / PhD candidate &nbsp;·&nbsp; click to open</h3></summary>
 
-> 📄 My [motivation letter](./BenHamouda_Dhia-Motivation_letter.pdf) covers my research interests and my reasons for pursuing a PhD.
+> 📄 My [research CV](./BenHamouda_Dhia-CV-PhD.pdf) leads with my research experience.
+> My [motivation letter](./BenHamouda_Dhia-Motivation_letter.pdf) covers my research interests and my reasons for pursuing a PhD.
 > Write to me by [email](mailto:dhiabenhamouda.pro@gmail.com) or on [LinkedIn](https://linkedin.com/in/dhiabenhamouda) and I'll send the rest of my documents, including my transcripts.
 
 ### Research interests
@@ -103,6 +104,9 @@ I'll publish the full results and what I learned from them after the final deadl
 <table><tr><td>
 <details>
 <summary><h3>💼 An AI / Software Engineer &nbsp;·&nbsp; click to open</h3></summary>
+
+> 📄 My [CV](./BenHamouda_Dhia-CV.pdf) is the one-page version of everything below.
+> Write to me by [email](mailto:dhiabenhamouda.pro@gmail.com) or on [LinkedIn](https://linkedin.com/in/dhiabenhamouda).
 
 ### Experience
 
