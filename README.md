@@ -26,7 +26,7 @@ TU Chemnitz showed me that I enjoy an open question as much as a working build, 
 %%{init: {'theme': 'base', 'themeVariables': {'cScale0': '#2C4A6B', 'cScaleLabel0': '#ffffff', 'cScale1': '#2F5876', 'cScaleLabel1': '#ffffff', 'cScale2': '#326680', 'cScaleLabel2': '#ffffff', 'cScale3': '#35748A', 'cScaleLabel3': '#ffffff', 'cScale4': '#38818D', 'cScaleLabel4': '#ffffff', 'cScale5': '#3A8C88', 'cScaleLabel5': '#ffffff'}}}%%
 timeline
     2021 : 🎓 Started computer science engineering at ISIMM
-    2022 : 🥇 IEEEXtreme, 1st place at my university
+    2022 : 🥇 IEEEXtreme, 1st place at ISIMM
     2023 : ☁️ Microsoft Azure AI Fundamentals certified
     2024 : 👑 Top of my class, 1st of 57
          : 🏆 3 hackathon first prizes
@@ -40,7 +40,7 @@ timeline
 
 | 🏆 Competitions | 👑 Academics | ⚙️ Automation | 🧪 Experiments |
 |:---:|:---:|:---:|:---:|
-| 15+ hackathons, 3 first prizes, and 1st at my university in IEEEXtreme | 1st of 57, graduated with highest honours | About 50% less document-processing time at OZEOL | 1,000+ ML training runs tracked and written up |
+| 15+ hackathons, 3 first prizes, and 1st in IEEEXtreme ISIMM | 1st of 57, graduated with highest honours | About 50% less document-processing time at OZEOL | 1,000+ ML training runs tracked and written up |
 
 ## 👋 Who are you looking for?
 
